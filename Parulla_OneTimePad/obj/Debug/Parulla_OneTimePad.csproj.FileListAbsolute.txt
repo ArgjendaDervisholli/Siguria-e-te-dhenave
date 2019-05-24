@@ -1,0 +1,9 @@
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\bin\Debug\Parulla_OneTimePad.exe.config
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\bin\Debug\Parulla_OneTimePad.exe
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\bin\Debug\Parulla_OneTimePad.pdb
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\obj\Debug\Parulla_OneTimePad.csprojResolveAssemblyReference.cache
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\obj\Debug\Parulla_OneTimePad.Form1.resources
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\obj\Debug\Parulla_OneTimePad.Properties.Resources.resources
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\obj\Debug\Parulla_OneTimePad.csproj.GenerateResource.Cache
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\obj\Debug\Parulla_OneTimePad.exe
+C:\Users\TECHCOM\Desktop\Detyra_1_Siguri_Grupi_15\Parulla_OneTimePad\obj\Debug\Parulla_OneTimePad.pdb
