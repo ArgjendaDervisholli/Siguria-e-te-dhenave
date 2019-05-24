@@ -1,0 +1,22 @@
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\bin\Debug\GR17_Detyra2.exe.config
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\bin\Debug\GR17_Detyra2.exe
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\bin\Debug\GR17_Detyra2.pdb
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR15_Detyra2.csprojResolveAssemblyReference.cache
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR15_Detyra2.Form1.resources
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR17_Detyra2.Properties.Resources.resources
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR15_Detyra2.csproj.GenerateResource.Cache
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR17_Detyra2.exe
+C:\Users\TECHCOM\Desktop\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR17_Detyra2.pdb
+C:\Users\TECHCOM\Desktop\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\bin\Debug\GR17_Detyra2.exe.config
+C:\Users\TECHCOM\Desktop\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR17_Detyra2.exe
+C:\Users\TECHCOM\Desktop\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR17_Detyra2.pdb
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\bin\Debug\GR17_Detyra2.exe.config
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\bin\Debug\GR17_Detyra2.exe
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\bin\Debug\GR17_Detyra2.pdb
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR15_Detyra2.csprojResolveAssemblyReference.cache
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR15_Detyra2.Form1.resources
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR17_Detyra2.Properties.Resources.resources
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR15_Detyra2.csproj.GenerateResource.cache
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR15_Detyra2.csproj.CoreCompileInputs.cache
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR17_Detyra2.exe
+E:\Argjenda FIEK\V2\Detyra_2_Siguri_Grupi_15\GR17_Detyra2\obj\Debug\GR17_Detyra2.pdb
